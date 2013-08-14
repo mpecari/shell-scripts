@@ -8,3 +8,8 @@ stop_tomcat.sh
 ==============
 
 Find the process ID by name of tomcat and try to kill it.
+
+run_tomcat.sh
+=============
+
+call startup.sh and show catalina.out logs in console
