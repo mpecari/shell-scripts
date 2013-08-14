@@ -13,3 +13,8 @@ run_tomcat.sh
 =============
 
 call startup.sh and show catalina.out logs in console
+
+restart_tomcat.sh
+=================
+
+do frist stop_tomcat.sh after run_tomcat.sh
